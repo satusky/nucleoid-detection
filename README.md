@@ -1,6 +1,12 @@
 # Nucleoid Detection
+Python implementation of https://github.com/jkfindeisen/nucleoid_detection_and_kinetics_2021
+
+>Christian Brüser, Jan Keller-Findeisen, and Stefan Jakobs. "The TFAM to mtDNA ratio defines inner-cellular nucleoid populations with distinct activity levels"
+https://doi.org/10.1016/j.celrep.2021.110000
 
 Nucleoid detection and replication kinetics analysis for STED microscopy images. Part of the research on *"The TFAM to mtDNA ratio defines inner-cellular nucleoid populations with distinct activity levels."*
+
+
 
 ## Features
 
